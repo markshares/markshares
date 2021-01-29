@@ -8,5 +8,7 @@ Skills: Node.js / Python / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on a labs project at Lambda School. 
 - 🌱 I’m currently learning Team Collaboration 
 
+Feel free to contact me through Twitter or check out my resume link to the left which contians my contact info!
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mark-pekun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/markshares)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/markshares_dev)  
