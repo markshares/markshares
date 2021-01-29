@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Mark!
 #### Full-Stack Web Developer
-(https://unsplash.com/photos/ukzHlkoz1IE)
 
 My journey started as a nursing student but discovered my love for detail, design, and development. Committed to an ever-changing industry, I hope to use my knowledge of HTML, CSS, Javascript, and Python to create an experience I can share with others. 
 
