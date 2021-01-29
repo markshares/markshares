@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Mark!
+#### Full-Stack Web Developer
+![Full-Stack Web Developer](https://unsplash.com/photos/ukzHlkoz1IE)
 
-<!--
-**markshares/markshares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My journey started as a nursing student but discovered my love for detail, design, and development. Committed to an ever-changing industry, I hope to use my knowledge of HTML, CSS, Javascript, and Python to create an experience I can share with others. 
 
-Here are some ideas to get you started:
+Skills: Node.js / Python / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a labs project at Lambda School. 
+- 🌱 I’m currently learning Team Collaboration 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mark-pekun//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/markshares//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/markshares_dev)  
